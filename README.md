@@ -1,2 +1,1 @@
-# electricimp
-# electricimp
+# electricimp sample code
